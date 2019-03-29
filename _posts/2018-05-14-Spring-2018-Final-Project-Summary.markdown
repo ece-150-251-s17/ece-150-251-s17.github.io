@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Spring 2018 Final Project Summary"
-date:   2018-05-14 23:35:51 -0700
+title:  "Spring 2017 Final Project Summary"
+date:   2017-05-14 23:35:51 -0700
 categories: jekyll update
 ---
 
