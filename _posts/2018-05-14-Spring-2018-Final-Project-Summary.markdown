@@ -30,7 +30,7 @@ categories: jekyll update
 <br/>
 ### [*__A.R. Horse__*][p1]
 #### **Team: Samarth Goyal, Peter Ginty, Ben Patient**
-*Drawing inspiration from a number of efforts in the electronic music community to create “musical gloves,” we are building a much more readily available alternative using only a phone.  Our app will produce a musical note dependent on the phone’s readings from its accelerometer and gyroscope, which control the note’s volume and pitch, respectively.  Users will then be able to save their creations either locally or to a website and will have the ability to download other users’ songs.  The project incorporates elements of sensor reading, peripheral output, saving data, and networking.  As a stretch goal, we may find some way to incorporate the camera or geographical data so that only people in close proximity can see each other’s images.*
+*To design an augmented reality app to play the basketball game H-O-R-S-E. Make a successful flick-to-shoot physics based game. We want to be able to play our app whenever we want, wherever we want.*
 
 <br/>
 
@@ -38,7 +38,7 @@ categories: jekyll update
 <br/>
 ### [*__Synthtouch__*][p2]
 #### **Team: Sasha Kurkcuoglu, Kenneth Chan**
-*User will focus the camera on an image target, using the application. Animated creatures will appear on as many as two image targets. The application will then introduce a combat menu system where the user can attack the other user’s creature. The creatures can also be unlocked for viewing later using its respective image card.*
+*SythTouch is a user­interface for sound modulation on the android device. We will be developing an application that uses certain hardware features of the device to create sound as an output. This application uses the accelerometer and the touch features to allow users to play with sound. This app will be very user friendly and will allow for people to have fun with sound.*
 
 <br/>
 
@@ -46,7 +46,7 @@ categories: jekyll update
 <br/>
 ### [*__AR Snake Game__*][p3]
 #### **Team: Yini Wang, Boning Dong**
-*Hello, we are Hover Hand, a team dedicated to making a more intuitive control for flying a drone.  By using a glove outfitted with IMU sensors, we hope to create a model of the hand that tracks movement that can control a drone. We are sending values from our glove over BLE to an android phone, that can then leverage the DJI sdk to control a DJI drone via wifi communication.*
+*Our goal is to transform the classic snake game in to an augmented reality form. We want to create an augmented reality where the user can play the snake game though the camera as if the game world is on a paper or table.*
 
 <br/>
 
@@ -54,7 +54,7 @@ categories: jekyll update
 <br/>
 ### [*__GeoChat__*][p4]
 #### **Team: Gustavo Cornejo, Subhodeep Choudhury**
-*Step aside Bluetooth trackers. It's time for a real GPS locator. Our goal is to create an affordable mobile tracker that reports to you phone via our app, Locate. The app will be able to ping the Locator via cost-effective text messaging, and receive a reply with the Locator's GPS coordinates. With Google Maps integration, you will be able to see your device's real location, on demand.*
+*GeoChat is a cloud-based community media sharing platform where users can view and upload videos and images based on their geographic location. In essence, GeoChat is an android application that allows local communities to share pictures and videos with each other. The application features an element of exclusivity as it only allows people who are geographically inside of the community to view and upload images to that particular feed. In addition, each post that is made has an expiration date that is set to 24hrs after it was posted. The inspiration for this app came from the strong sense of community that many of us feel in Isla Vista. We saw that many applications lead us to over sharing content with irrelevant people and often miss sharing with those who really matter, the people near us.*
 
 <br/>
 
@@ -62,7 +62,7 @@ categories: jekyll update
 <br/>
 ### [*__ColorMind__*][p5]
 #### **Team: David Donaldson, Timothy Kwong**
-*The idea of this app is to simplify the process of finding your way around the UCSB campus. Right now, the few methods of navigating around campus include pulling out a physical map (not feasible, especially in today’s tech-y world), using UCSB’s interactive map (which no one really uses), or using Google Maps. The problem with Google Maps is that it doesn’t recognize specific buildings, and sometimes it will not properly recognize an address or location that a user inputs. This is where our app comes into play.*
+*Colormind will be a mobile game app where players are challenged with a puzzle in order to decode a sequence of colors. The game will be implemented with Java for an Android platform.*
 
 <br/>
 
@@ -70,7 +70,7 @@ categories: jekyll update
 <br/>
 ### [*__Munchies__*][p6]
 #### **Team: Eirik Sandberg**
-*We want the process of splitting bills to be as easy as the 3 steps of snap, add, and drag. Nobody wants to be the one who pays for the bill and be responsible for splitting the receipt while calculating tax and tip. Weceipt is the solution to easily splitting a receipt in the snap of a picture.*
+*Making an application which can make suggestions on restaurants based on user specified preferences. These preferences will be things like what type of cuisine and what radius the restaurant should be within. The restaurants will be found using Google places API and will be listed in a user interface. Preferably, the user interface would be looking somewhat like Tinder, where the user will get the nearest suggestion first and then either choose to accept that or get a new suggestion. This could be achieved with various libraries. When the user accepts a suggestion from the app, directions to the place should be provided using Google Maps.*
 
 <br/>
 
@@ -78,20 +78,7 @@ categories: jekyll update
 <br/>
 ### [*__PlayGround__*][p7]
 #### **Team: Chutian Shen, Nicole Moghaddas**
-*What is our purpose?
-To eliminate time wasted by calling role.
-How will it work?
-The teacher will set a password prior to class and write it on the board.
-Once the students arrive, they will enter this password to show that they are attending.
-After the time runs out for students to enter the password, the list of absent students are displayed for the teacher.
-What will the user see as a professor:
-Page 1: has a list of all the courses and times that he teaches.
-Page 2 (once they select a class): a text edit and a button widget.
-This is where the teacher will set the attendance password.
-What will the user see as a student:
-Page 1: has a list of their classes and options to add or remove a class.
-Page 2 (once they select a class): a text edit and a button widget.
-This is where they will submit the attendance password.*
+*The application will incorporate a social network aspect, including many common features seen in social network messaging apps seen today. Users will be able to view and maintain a Friends List, with the ability to Add Friends. There will a profile for each user, which might display game statistics, such as scores and rankings in different games. There would also be a Chat feature, core to the social design, so that users can message each other, such as in chat rooms.*
 
 <br/>
 
@@ -99,9 +86,7 @@ This is where they will submit the attendance password.*
 <br/>
 ### [*__ThrowTopia__*][p8]
 #### **Team: Jesus Diera, Connor Northend**
-*SPOT (Spatial Positioning on Terrain) is an experimental human communication interface designed for astronauts in conjunction with a human-computer interaction team at NASA.
-The goal of SPOT is to reduce an astronaut's cognitive load while maximizing productivity during future surface exploration missions.
-SPOT accomplishes this goal by reducing the reliance on vocal communication for distribution of information between astronauts.*
+*ThrowTopia is a groundbreaking new game coming soon to the Android platform. We will be making use of the Unity SDK and other APIs to create the game. The physics of the game will be created with Unity and the rest of the App will be done using Android focused API’s so that we don’t end up using Unity for the whole game. We could make use of API’s for users high scores, retaining customization features, obstacles, and level selections.*
 
 <br/>
 
@@ -110,11 +95,7 @@ SPOT accomplishes this goal by reducing the reliance on vocal communication for 
 ### [*__IR Hub__*][p9]
 #### **Team: Jeremiah Prousalis, Jesus Castro**
 
-*"Tinder for Dogs"*
-
-*Allow dog owners to meet other dog owners in the area.*
-
-*Match with other dogs and chat with owners in groups to arrange park visits, runs, meetups etc.*
+*We are making an Android application that will be used to complement our Capstone Project. This Android application will allow the user store and maintain all of their remote controls lying around their house. The application will act as a truly universal remote control. We will be integrating Android’s Bluetooth Low Energy capabilities for this app to be able to connect to the IR Hub.*
 
 <br/>
 
@@ -123,7 +104,7 @@ SPOT accomplishes this goal by reducing the reliance on vocal communication for 
 ### [*__NextSlide__*][p10]
 #### **Team: Yang Ren, Brian Canty**
 
-*PictoBug is an app that pays homage to the Nintendo DS's program called Pictochat, that allows users nearby to chat and draw with each other without the need for an Internet connection. By using WiFi Direct, the app lets users create and join chat rooms where they can message or draw messages to each other in a similar way that PictoChat did.*
+*NextSlide is an app that aims to provide a smarter presentation. By harnessing voice recognition, NextSlide will allow users to control their display without using their hands. It will be as if you have a partner built into the presentation who handles all the work.*
 
 <br/>
 
@@ -132,10 +113,7 @@ SPOT accomplishes this goal by reducing the reliance on vocal communication for 
 ### [*__PlanR__*][p11]
 #### **Team: Alan Tran, Timothy Hinh**
 
-*The goal of this projects is create an app that helps people keep in touch with
-friends, family, and loved ones. This application aims to provide its users with simple person-to-person and
-group messaging. Additionally, the application will also feature the ability to
-talk to local users that also have the application installed.*
+*PlanR will be easy-to-use for casual users, but will also have more detailed options and settings for other users. The plan for how the app will work is to use text and text identification in pictures to determine useful information for scheduling. It will also use the APIs for social media and messaging applications on the phone to recognize the user’s intent to attend events and then schedule them if desired by the user.*
 
 <br/>
 
@@ -144,15 +122,7 @@ talk to local users that also have the application installed.*
 ### [*__Brew View: The Beer Die Tracker__*][p12]
 #### **Team: Nathan Vandervoort, Kyle Kellenberger**
 
-*Our Idea: An app that will allow a user to join a chat room with other users.
-Chat rooms will be entered by name.*
-
-*Using TCP Sockets/Server:
-Can join chat room by entering a chat room name which will automatically connect you to the correct server and port number
-A third node/server will be in place where the chat rooms will be hosted
-The server will act as a bridge between users in a chat room
-Chat room will stay open on the server as long as a single user is connected.
-Saving processing power by not keeping rooms open indefinitely.*
+*For the final project of ECE 150 our project will be an android application called Brew View. It will be a general tracking application for the popular drinking game Beer Die. Beer Die has various trackable statistics such as throws, catches, and points, as well as a player base that we believe would enjoy the application and use it to make the game both more fun and more competitive. Every game traditionally starts with the first player to throw the die to yell “Die up!” Our hope is that with our application “die up” will never die down.*
 
 <br/>
 
@@ -161,7 +131,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__PhonePotato__*][p13]
 #### **Team: Alex Nagase, Mark Wu**
 
-*We want to build a simple Rideshare App called RydeBot. Users will be able to login and either post as a rider, or select the posts as a driver. Riders can post their requests which are shown to drivers. Drivers can view the riders locations/request schedule and select the rider they would like to pick up. They can also chat with riders. Once selected, navigation is started on their phone.*
+*PhonePotato is a game that involves throwing and spinning a phone to collect points. The higher the phone is thrown and the more times it is spun in mid air, the more points will be awarded.*
 
 <br/>
 
@@ -170,7 +140,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__Android Game: Tank__*][p14]
 #### **Team: Jianyang Lu, Weiyi Zhou, Yi Yan**
 
-*An interactive app providing locations services for students on campus. Detailed locations including main buildings, trailer rooms and parking lots are covered. The app features a convenient user interfaces including voice/text recognition for campus addresses. The locating service will be available in the form of either GPS or Cellular locating. Further more, a posting sections allows organizers to broadcast event information in real time and potentially other functionalities.*
+*Our goal is to make a tank moving and shooting game that utilizes various APIs and sensors. Based on traditional computer tank games that fight with enemies, we are going to introduce new features such as voice control to the game. Players can interact with the game through various built-in sensors. Also, the game can be controlled with a conventional touch screen as well. In addition, multiplayer mode will be available through internet.*
 
 <br/>
 
@@ -179,7 +149,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__Escavive__*][p15]
 #### **Team: Yan Kong, Yingchun Du**
 
-*Our project aimed to build an AR game with MCU control. The app recognized the designated print out image on a surface and generate a ball on the surface which can be controlled by user holding an external MCU with gestures through Triple Axis Accelerometer and Gyro sensor. The MCU send its data to a portable Arduino via cloud. The user will be able to mess around with the ball on the surface. The stretch goal for this project is to make the ball float in the air and the user is able to control the ball moving freely in the air with the MCU. This way the MCU is truly much more superior to the phone’s gyroscope in terms of 3D space control.*
+*Obtaining inspiration from Outlast II, a new released horror game, and Pokémon Go, a popular Augmented Reality game, we decide to create our own AR horror game – Escavive, which combines both elements from horror and AR games. This name comes from two words: escape and survive. Our initial idea is to utilize camera feed as the game scene and add some camera filters to render the atmosphere of terror. And ghosts will appear randomly and head toward the player. The player needs to run and escape to survive. Also, to increase playability, we use and set some special image targets around, which allows the player to pick up game props such as camcorders batteries (to kill the ghosts) and med kits (to heal) to fight back.*
 
 <br/>
 
@@ -188,7 +158,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__FeedMe__*][p16]
 #### **Team: Shaman Bhat, Varun Nagaraj**
 
-*This project is aiming to create a new way to make music – using hand gestures. Deliver a Android app allowing user to perform music with virtual instruments using non-touch hand gesture. Implement a hand gesture recognition function to detect/recognize user’s fingers and play related musical sound. Users are able to create a piece of melody with their hands and record their works.*
+*The main motivation for creating this application is to provide convenient means of nutritional knowledge to the user. We know that health and time are of paramount importance, especially for students and hence we conceptualized this application to cater to their needs. Our aim is to create an application which presents users with instant food recipes and nutrition facts based on the ingredients available.*
 
 <br/>
 
@@ -197,7 +167,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__Smart Meditate__*][p17]
 #### **Team: Bradley Hall, Bradly Odell**
 
-*Our primary objective is to design a Wi-Fi based multiplayer snake game that makes uses of a mixture of hardware and software API’s with our primary focus on user experience. The game logic we intend to design is aimed at making the app easy to interact with whilst offering minimal overheads.*
+*Our goal of this project is to create a new, innovative app that helps users meditate. The app, Smart Meditate, is different from other meditation apps currently in app stores. Instead of using voice guided meditation, Smart Meditate uses binaural beats, heartbeat sensing, and guided breathing to create a new meditation experience. This app will have two activities. One being the main screen, where the guided breathing orb will grow and shrink. There will also be icons displaying the user’s heart rate and the frequency of binaural beat playing. The second activity will show stats of the user’s meditation, like duration and average heart rate. The phone’s camera and flash will be used to read the user’s heart rate. In order to create sounds this app will use the Android AudioTrack class. It will also use various Android SDK classes for the animated graphics.*
 
 <br/>
 
@@ -206,7 +176,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__Appricot__*][p18]
 #### **Team: Miclos Lobins, Clara Frausto**
 
-*The primary goal is to create an offline multiplayer game which allows users to play SUDOKU in Single Player and Multiplayer (2 player) modes. This app will allow 2 users to play while they can simultaneously monitor the opponent’s progress in percentage.*
+*This application is an image editor that allows one to combine multiple images together. We want to create multiple preset templates for users to pick from. Users can then choose to add photos into the template one chose. Images can be resized and rotated, and filters can be applied. There will be an option to draw on the images as well.*
 
 <br/>
 
@@ -215,7 +185,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__Bop Dat!__*][p19]
 #### **Team: Nate Diamond, Zach Meyer**
 
-*App which takes the Grocery List as input, along with location input and suggests the nearest possible store where the groceries can be purchased.*
+*Create revolutionary smart-phone application inspired by the household kids’ game Bop-It! Change the paradigm of mobile accelerometer based games. Not violate any intellectual property laws. Create an artistically simple, aesthetically pleasing app.*
 
 <br/>
 
@@ -224,7 +194,9 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__Voice Memo__*][p20]
 #### **Team: Eddie Rojas, Qian Li**
 
-*In general, this project is a AR Tower Defense game deployed on Android Device. The classic Tower Defense rules apply in this  game. Player need to defense their bases by purchasing and deploying towers with different element magic. The idea of this project came from the customized map of Warcraft 3, Element Defense.*
+*Our goal is to make a voice recorder which can record voice and save it in the phone. Then user can display it after clicking the saved voice. Next, the memo will classify each piece of voice according to their type. For example, if the voice is from a human, it can be classified as speech; if the voice sounds like a piece of music, it can be classified as music. Finally, the recorder can detect the starting point of the voice. If the blank lasts for 3 seconds, the recorder will stop record and “nothing is recorded” will be shown. It will detect if it is a blank according to the frequency.*
+
+*Our project for this ECE 150 will be Voice Memo. Our app, Voice Memo will be an app with similar capabilities of the built in recorder but it will have the addition of eliminating white noise at the beginning of a recording and the option of sending the audio and parse audio into text.*
 
 <br/>
 
@@ -233,7 +205,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__ColorMe__*][p22]
 #### **Team: Trevor Morris, Kellie Toyofuku, Bernardo Celis Garcia**
 
-*Our Android app will implement SET! with a primary focus on the user interface. SET!'s official iOS app clunky with outdated graphic design. We aim to implement both single and multiplayer modes. For multiplayer, we will use Google's Turn-Based Multiplayer API, as well as Wi-Fi direct for communication between two devices. Stretch goals include high score and leaderboard for single-player, and multiplayer gameplay for more than 2 players.*
+*We strive to create an android application called ColorMe. This application allows the user to have endless creativity to customize their memories.*
 
 <br/>
 
@@ -242,7 +214,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__SongBird__*][p24]
 #### **Team: Dylan Vanmali, Patrick Vidican**
 
-*Give visitors a pocket guide of UCSB’s major buildings/landmarks. Access their location to give suggestions on what to view next. Offer directions to nearby buildings.*
+*Songbird will allow easy switching between music sources via Bluetooth. One user will be the music source at any given time, and this user will be able to play their music across all other devices in the piconet. When someone wants to change a song, they will make a request to become the music source, and all other devices in the piconet will begin playing the new user’s music.*
 
 <br/>
 
@@ -251,7 +223,7 @@ Saving processing power by not keeping rooms open indefinitely.*
 ### [*__SONOS COM__*][p25]
 #### **Team: Brenden Fujishige, Marcellis Carr-Barfield**
 
-*This project is meant to be a proof of concept of increasing one's spacial awareness using computer vision. The goal is to allow a user to query the app using voice commands and have the app interpret a live video feed to learn about the user's environment and then respond to the query. We will be using Alexa Voice Service (AVS) API to allow communication with the user and Google Cloud Vision API to gather information about the user's environment in real time.*
+*Build a high quality intercom device that seamlessly integrates with your existing Sonos devices. Connect the COM to the home wi-fi network. Be able to use and discover the COM on a wi-fi network to communicate with the app. Implement basic music playback functionality such as play/pause, forward/back, etc by interfacing with the COM device.*
 
 <br/>
 
