@@ -20,7 +20,7 @@ categories: jekyll update
 | [ThrowTopia][p8] | [Brew View: The Beer Die Tracker][p12]             | [SONOS COM][p25] |                              |                                       
 | [PhonePotato][p13]                 | [Smart Meditate][p17]              |                      |                              |                                       
 | [Android Game: Tank][p14]            | [Appricot][p18]          |                      |                              |                                       
-| [Bop Dat!][p19]  | [SET][p21]                   |                      |                              |                                       
+| [Bop Dat!][p19]  |                    |                      |                              |                                       
 | [ColorMe][p22]             |                              |                      |                              |                                       
 
 <br/>
@@ -284,31 +284,31 @@ _Seamless integration_
 
 ---
 [instructor]: https://www.ece.ucsb.edu/~yoga/
-[p1]: https://sites.google.com/view/ece251-poormansmusicglove/home
-[p2]: https://sites.google.com/view/pixify/home
-[p3]: https://ucsbhoverhand.wordpress.com/
-[p4]: https://sites.google.com/view/locategps/home
-[p5]: https://classtrackerece251.wordpress.com/
-[p6]: https://sites.google.com/view/weceipt/home
-[p7]: https://attendanceapp699072255.wordpress.com/
-[p8]: http://android.bryanparmenter.com/
-[p9]: https://sites.google.com/view/dogpark/home
-[p10]: https://sites.google.com/view/pictobug/home
-[p11]: https://theshoutapp.blogspot.com/
-[p12]: https://sites.google.com/view/chipchat/home
-[p13]: https://sites.google.com/view/rydebot/home
-[p14]: https://sites.google.com/view/ucsb-tracker
-[p15]: https://rollingball417870449.wordpress.com/
-[p16]: https://aimsecond.github.io/music-performer/
-[p17]: https://sites.google.com/view/basilisk/home
-[p18]: https://sites.google.com/view/speedsudoku
-[p19]: https://sites.google.com/view/intuitivegrocerylist/home
-[p20]: https://sites.google.com/view/magicdefence/homepage
+[p1]: https://sites.google.com/view/arhorse/
+[p2]: https://sites.google.com/view/synthtouch/home
+[p3]: https://dbndbn6279.github.io/projects/ARSnake/ARSnakeECE150.html
+[p4]: https://sites.google.com/view/geochat/home
+[p5]: https://sites.google.com/site/colormindapp/home
+[p6]: https://sites.google.com/site/munchiesece150
+[p7]: https://sites.google.com/site/playgroundprojectwebsite/home
+[p8]: https://sites.google.com/site/throwtopiaucsb/
+[p9]: https://sites.google.com/site/ceeirhub/
+[p10]: https://sites.google.com/view/nextslide
+[p11]: https://sites.google.com/view/ucsbece150s17planr/home
+[p12]: https://sites.google.com/view/ece150s17-brewview/home
+[p13]: https://sites.google.com/site/phonepotatoapp/
+[p14]: https://sites.google.com/view/ece150sp17tank/home
+[p15]: https://sites.google.com/site/ece251project/home
+[p16]: https://sites.google.com/view/feedme-sbvn/home
+[p17]: https://sites.google.com/view/smartmeditate
+[p18]: https://sites.google.com/site/anappricotproduction/
+[p19]: https://nediamond.github.io/BopDat/
+[p20]: https://sites.google.com/view/ece150voicememo/home
 [p21]: https://sites.google.com/view/setproject
-[p22]: https://sites.google.com/view/campusview
+[p22]: https://sites.google.com/view/colormeapp/home
 [p23]: https://sites.google.com/view/awarenessplusplus/home
-[p24]: https://sites.google.com/view/ar-emoji/home
-[p25]: https://sites.google.com/view/treasurehuntar
+[p24]: https://dvanmali.github.io/Songbird/
+[p25]: https://sites.google.com/site/sonoscomapp/home
 
 
 <!-- more -->
