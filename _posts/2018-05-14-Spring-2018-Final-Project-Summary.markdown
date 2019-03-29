@@ -14,14 +14,14 @@ categories: jekyll update
 
 | Messaging & Games           | Productivity| Audio    | Augmented Reality                     | Food
 |:------------------------------:|:----------------------------:|:--------------------:|:----------------------------:|:-------------------------------------:
-| [Locate][p4]                   | [Dogpark][p9]                | [Pixify][p2]         | [Poor Man's Music Glove][p1] | [Weceipt][p6]                         
-| [ClassTracker][p5]             | [PictoBug][p10]              | [Magic Defense][p20] | [Hover Hand][p3]             | [Music Performer][p16]                
-| [College Attendance App][p7]   | [Shout][p11]                 | [AR Emoji][p24]      | [Rolling Ball][p15]          | [Awareness++][p23]                    
-| [SPOT Mobile Base Station][p8] | [Chip Chat][p12]             | [Treasure Hunt][p25] |                              |                                       
-| [RydeBot][p13]                 | [Basilisk][p17]              |                      |                              |                                       
-| [UCSB Tracker][p14]            | [Speed Sudoku][p18]          |                      |                              |                                       
-| [Intuitive Grocery List][p19]  | [SET][p21]                   |                      |                              |                                       
-| [Campus View][p22]             |                              |                      |                              |                                       
+| [GeoChat][p4]                   | [IR Hub][p9]                | [Synthtouch][p2]         | [A.R. H.O.R.S.E.][p1] | [Munchies][p6]                         
+| [ColorMind][p5]             | [NextSlide][p10]              | [Voice Memo][p20] | [AR Snake Game][p3]             | [FeedMe][p16]                
+| [PlayGround][p7]   | [PlanR][p11]                 | [Songbird][p24]      | [Escavive][p15]          |                     
+| [ThrowTopia][p8] | [Brew View: The Beer Die Tracker][p12]             | [SONOS COM][p25] |                              |                                       
+| [PhonePotato][p13]                 | [Smart Meditate][p17]              |                      |                              |                                       
+| [Android Game: Tank][p14]            | [Appricot][p18]          |                      |                              |                                       
+| [Bop Dat!][p19]  | [SET][p21]                   |                      |                              |                                       
+| [ColorMe][p22]             |                              |                      |                              |                                       
 
 <br/>
 
