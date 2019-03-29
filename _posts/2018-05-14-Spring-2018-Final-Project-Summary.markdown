@@ -12,7 +12,7 @@ categories: jekyll update
 <br/>
 ### **Project Summary Table:**
 
-| GPS-Based & Tracking           | Messaging & Multiplayer Games| Augmented Reality    | Controls                     | Optical Character & Image Recognition
+| Messaging & Games           | Productivity| Audio    | Augmented Reality                     | Food
 |:------------------------------:|:----------------------------:|:--------------------:|:----------------------------:|:-------------------------------------:
 | [Locate][p4]                   | [Dogpark][p9]                | [Pixify][p2]         | [Poor Man's Music Glove][p1] | [Weceipt][p6]                         
 | [ClassTracker][p5]             | [PictoBug][p10]              | [Magic Defense][p20] | [Hover Hand][p3]             | [Music Performer][p16]                
