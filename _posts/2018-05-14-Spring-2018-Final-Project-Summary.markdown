@@ -12,16 +12,15 @@ categories: jekyll update
 <br/>
 ### **Project Summary Table:**
 
-| Messaging & Games           | Productivity| Audio    | Augmented Reality                     | Food
+| Messaging & Games           | Productivity| Audio    | Augmented Reality                     | Location-Based 
 |:------------------------------:|:----------------------------:|:--------------------:|:----------------------------:|:-------------------------------------:
-| [GeoChat][p4]                   | [IR Hub][p9]                | [Synthtouch][p2]         | [A.R. H.O.R.S.E.][p1] | [Munchies][p6]                         
+| [ColorMe][p22]                    | [IR Hub][p9]                | [Synthtouch][p2]         | [A.R. H.O.R.S.E.][p1] | [Munchies][p6]                         
 | [ColorMind][p5]             | [NextSlide][p10]              | [Voice Memo][p20] | [AR Snake Game][p3]             | [FeedMe][p16]                
-| [PlayGround][p7]   | [PlanR][p11]                 | [Songbird][p24]      | [Escavive][p15]          |                     
+| [PlayGround][p7]   | [PlanR][p11]                 | [Songbird][p24]      | [Escavive][p15]          |       [GeoChat][p4]              
 | [ThrowTopia][p8] | [Brew View: The Beer Die Tracker][p12]             | [SONOS COM][p25] |                              |                                       
 | [PhonePotato][p13]                 | [Smart Meditate][p17]              |                      |                              |                                       
 | [Android Game: Tank][p14]            | [Appricot][p18]          |                      |                              |                                       
-| [Bop Dat!][p19]  |                    |                      |                              |                                       
-| [ColorMe][p22]             |                              |                      |                              |                                       
+| [Bop Dat!][p19]  |                    |                      |                              |                                                                          
 
 <br/>
 
